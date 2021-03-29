@@ -1,0 +1,4 @@
+Juan manuel Rizzi: user:jmr pass:1111
+Julio Borri: user: jb pass:2222
+Nicolas Clerici: user:nc pass:3333
+Maximiliano Paoli: user mp pass:4444
